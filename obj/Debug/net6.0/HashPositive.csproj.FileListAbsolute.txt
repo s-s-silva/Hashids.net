@@ -1,0 +1,17 @@
+C:\Users\s.soares.da.silva\HashPositive\bin\Debug\net6.0\HashPositive.exe
+C:\Users\s.soares.da.silva\HashPositive\bin\Debug\net6.0\HashPositive.deps.json
+C:\Users\s.soares.da.silva\HashPositive\bin\Debug\net6.0\HashPositive.runtimeconfig.json
+C:\Users\s.soares.da.silva\HashPositive\bin\Debug\net6.0\HashPositive.dll
+C:\Users\s.soares.da.silva\HashPositive\bin\Debug\net6.0\HashPositive.pdb
+C:\Users\s.soares.da.silva\HashPositive\bin\Debug\net6.0\Hashids.net.dll
+C:\Users\s.soares.da.silva\HashPositive\obj\Debug\net6.0\HashPositive.csproj.AssemblyReference.cache
+C:\Users\s.soares.da.silva\HashPositive\obj\Debug\net6.0\HashPositive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.soares.da.silva\HashPositive\obj\Debug\net6.0\HashPositive.AssemblyInfoInputs.cache
+C:\Users\s.soares.da.silva\HashPositive\obj\Debug\net6.0\HashPositive.AssemblyInfo.cs
+C:\Users\s.soares.da.silva\HashPositive\obj\Debug\net6.0\HashPositive.csproj.CoreCompileInputs.cache
+C:\Users\s.soares.da.silva\HashPositive\obj\Debug\net6.0\HashPositive.csproj.CopyComplete
+C:\Users\s.soares.da.silva\HashPositive\obj\Debug\net6.0\HashPositive.dll
+C:\Users\s.soares.da.silva\HashPositive\obj\Debug\net6.0\refint\HashPositive.dll
+C:\Users\s.soares.da.silva\HashPositive\obj\Debug\net6.0\HashPositive.pdb
+C:\Users\s.soares.da.silva\HashPositive\obj\Debug\net6.0\HashPositive.genruntimeconfig.cache
+C:\Users\s.soares.da.silva\HashPositive\obj\Debug\net6.0\ref\HashPositive.dll
